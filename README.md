@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a Ph.D student at Tongji University.
+- 🔭 I’m currently an algorithm engineer at HiSilicon (Shanghai).
 
 ![Guanyu Cai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuthbertCai&show_icons=true&theme=radical)
 
